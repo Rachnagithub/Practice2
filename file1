@@ -1,13 +1,7 @@
 ## first code file)
 a=10
-      
 b=20
-      
 c=a+b
-      
-print(a)
-print(b)
-print(c)
-print("sum of {} and {} is {}".format(a,b,c))
+print("sum of {x:} and {y:} is {z:}".format(x=a,y=b,z=c))
 
 
